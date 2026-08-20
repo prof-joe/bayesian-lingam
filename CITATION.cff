@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper listed under preferred-citation."
+title: "Bayesian LiNGAM"
+type: software
+authors:
+  - family-names: "Suzuki"
+    given-names: "Joe"
+repository-code: "https://github.com/prof-joe/bayesian-lingam"
+license: MIT
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Suzuki"
+      given-names: "Joe"
+  title: "Bayesian ICA for Causal Discovery"
+  year: 2026
+  doi: "10.48550/arXiv.2601.11815"
+  url: "https://arxiv.org/abs/2601.11815"
