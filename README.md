@@ -122,5 +122,12 @@ This software is released under the MIT License. See
 
 ## Citation
 
-Citation information for the accompanying paper will be added to this
-repository.
+If you use this software, please cite:
+
+Joe Suzuki, “Bayesian ICA for Causal Discovery,” arXiv:2601.11815,
+2026.
+
+https://doi.org/10.48550/arXiv.2601.11815
+
+Machine-readable citation metadata are provided in
+[CITATION.cff](CITATION.cff).
