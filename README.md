@@ -120,6 +120,13 @@ files:
 This software is released under the MIT License. See
 [LICENSE](LICENSE) for details.
 
+## Software archive
+
+Version 1.0.0 of the source code and scripts used for the numerical
+experiments is permanently archived on Zenodo:
+
+https://doi.org/10.5281/zenodo.22036228
+
 ## Citation
 
 If you use this software, please cite:
